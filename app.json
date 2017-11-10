@@ -1,0 +1,15 @@
+{
+  "name": "Sato crypto bot",
+  "description": "The server side for Sato.",
+  "image": "heroku/python",
+  "repository": "https://github.com/Ahirice/sato",
+  "keywords": ["python", "flask" ],
+  "addons": [ "heroku-postgresql" ],
+  "environments": {
+    "test": {
+      "scripts": {
+        "test": "server.py test"
+      }
+    }
+  }
+}

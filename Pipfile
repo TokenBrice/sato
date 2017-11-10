@@ -6,11 +6,8 @@ verify_ssl = true
 
 [packages]
 
-dj-database-url = "*"
 flask = "*"
 gunicorn = "*"
-"psycopg2" = "*"
-whitenoise = "*"
 requests = "*"
 
 

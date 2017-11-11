@@ -6,7 +6,7 @@
 
 # SATO IS A WORK IN PROGRESS
 
-### Scope
+## SCOPE
 
 1.  Crypto currency prices: Sato recognizes cryptocurrencies symbol ("ETH", "BTC") and fetch their price on [cryptocompare API](https://www.cryptocompare.com/api/) to finally return BTC and USD value to the user.
 2.  Questions about wallets: online wallets, exchange wallets, cold wallets and hardware wallets.

@@ -13,6 +13,7 @@ def index():
 
   # FETCH THE CRYPTO NAME AND REMOVE ITS STRINGS
   crypto_name = data['nlp']['entities']['crypto_name'][0]['raw']
+  crypto_name.replace("\"", "")
 
   # FETCH BTC/USD/EUR PRICES
   r = requests.get("https://min-api.cryptocompare.com/data/price?fsym="+crypto_name+"&tsyms=BTC,USD,EUR")

@@ -9,6 +9,7 @@ print(port)
 
 @app.route('/', methods=['POST'])
 def index():
+  print(port)
   data = json.loads(request.get_data())
 
   # FETCH THE CRYPTO NAME AND REMOVE ITS STRINGS

@@ -20,10 +20,7 @@ def index():
     replies=[{
       'type': 'text',
       'content': 'The price of %s is %f BTC and %f USD' % (crypto_name, r.json()['BTC'], r.json()['USD'])
-    }],
-    conversation={
-      'memory': { 'key': 'value' }
-    }
+    }]
   )
 
 @app.route('/errors', methods=['POST'])

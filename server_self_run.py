@@ -10,8 +10,8 @@ def index():
   data = json.loads(request.get_data())
 
   # FETCH THE CRYPTO NAME
-  crypto_name = data['nlp']['entities']['crypto_name'][0]['raw']
-
+  crypto_name = data['conversation']['memory']['crypto']['raw']
+  
   # FETCH BTC/USD/EUR PRICES
   r = requests.get("https://min-api.cryptocompare.com/data/price?fsym="+crypto_name+"&tsyms=BTC,USD,EUR")
 

@@ -13,7 +13,7 @@ def index():
   data = json.loads(request.get_data())
 
   # FETCH THE CRYPTO NAME AND REMOVE ITS STRINGS
-  crypto_name = data['conversation']['memory']['crypto']['raw']
+  crypto_name = data['conversation']['memory']['crypto']['raw'][0]
 
   # FETCH BTC/USD/EUR PRICES
   r = requests.get("https://min-api.cryptocompare.com/data/price?fsym="+crypto_name+"&tsyms=BTC,USD,EUR")

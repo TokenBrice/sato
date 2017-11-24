@@ -2,20 +2,23 @@
   <img src="assets/sato.png" />
 </p>
 
-
-[You can find and fork Sato - BOT from here](https://recast.ai/ahirice/sato-cryptobot/train/?utm_source=github&utm_medium=referral&utm_campaign=sato)
+# SATO IS A WORK IN PROGRESS
 
 ### WHAT IS SATO?
 
-![Sato-DEMO](https://image.ibb.co/km5MAw/sato_demo.gif)
-
-# SATO IS A WORK IN PROGRESS
+Sato is a chatbot able to answer generic questions about cryptocurrencies and fetch any currency price.
 
 ### SCOPE
 
 1.  Crypto currency prices: Sato recognizes cryptocurrencies symbol ("ETH", "BTC") and fetch their price on [cryptocompare API](https://www.cryptocompare.com/api/) to finally return BTC and USD value to the user.
 2.  Questions about wallets: online wallets, exchange wallets, cold wallets and hardware wallets.
 3.  Questions about the keys: what's they are are and what's their use.
+
+[You can find and fork Sato - BOT from here](https://recast.ai/ahirice/sato-cryptobot/train/?utm_source=github&utm_medium=referral&utm_campaign=sato)
+
+## DEMO
+
+![Sato-DEMO](https://image.ibb.co/km5MAw/sato_demo.gif)
 
 ### REQUIREMENTS
 

@@ -22,7 +22,7 @@ def index():
     status=200,
     replies=[{
       'type': 'text',
-      'content': 'The price of %s is %f BTC, %f USD, and %f EUR.' % (crypto_name, r.json()['BTC'], r.json()['USD'], r.json()['EUR'])
+      'content': 'The price of %s is :\n%f BTC, \n%f USD, and \n%f EUR.' % (crypto_name, r.json()['BTC'], r.json()['USD'], r.json()['EUR'])
     }]
   )
 

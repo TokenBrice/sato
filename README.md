@@ -17,8 +17,9 @@ Sato is a chatbot able to answer generic questions about cryptocurrencies and fe
 [You can find and fork Sato - BOT from here](https://recast.ai/ahirice/sato-cryptobot/train/?utm_source=github&utm_medium=referral&utm_campaign=sato)
 
 ## DEMO
-
-![Sato-DEMO](https://image.ibb.co/km5MAw/sato_demo.gif)
+<p align="center">
+  <img src="assets/satodemo.gif" />
+</p>
 
 ### REQUIREMENTS
 

@@ -13,7 +13,7 @@ def index():
   data = json.loads(request.get_data())
 
   # FETCH THE CRYPTO NAME
-  crypto_name = data['conversation']['memory']['crypto']['value']
+  crypto_name = daata['conversation']['memory']['crypto']['value']
 
   # FETCH BTC/USD/EUR PRICES
   r = requests.get("https://min-api.cryptocompare.com/data/price?fsym="+crypto_name+"&tsyms=BTC,USD,EUR")
@@ -22,7 +22,7 @@ def index():
     status=200,
     replies=[{
       'type': 'text',
-      'content': 'The price of %s is %f BTC and %f USD' % (crypto_name, r.json()['BTC'], r.json()['USD'])
+      'content': 'The price of %s is %f BTC, %f USD, and %f EUR.' % (crypto_name, r.json()['BTC'], r.json()['USD'], r.json()['EUR'])
     }]
   )
 

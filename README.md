@@ -36,6 +36,6 @@ Two server files are included in the repo:
 
 ### DOCUMENTATION
 
-The whole process of building Sato has been document and will be published soon.
+The whole process of building Sato has been documented and will be published soon.
 
 [Tutorial #1 - Setting up a self-hosted server (ngrok) to let our bot fetch data (crypto prices) from third party APIs.](https://recast.ai/blog/python-cryptobot/)

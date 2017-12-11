@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sato2-600.png" />
+  <img src="assets/sato-top-wide.png" />
 </p>
 
 # SATO IS A WORK IN PROGRESS

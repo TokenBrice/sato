@@ -39,3 +39,7 @@ Two server files are included in the repo:
 The whole process of building Sato has been documented and will be published soon.
 
 [Tutorial #1 - Setting up a self-hosted server (ngrok) to let our bot fetch data (crypto prices) from third party APIs.](https://recast.ai/blog/python-cryptobot/)
+
+## CHANGELOG
+- **12/13 - Exchanges**: Sato is now able to process queries regarding exchages and purchasing cryptos.
+- **12/06 - Quick Replies**: All of Sato's Quick Replies are now regrouped in the "qr" skill. Added emojis and revised the conversation flow.

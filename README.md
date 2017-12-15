@@ -30,7 +30,7 @@ Sato is a chatbot able to answer generic questions about cryptocurrencies and fe
 ### SATO ON MESSENGER
 
 <p align="center">
-<a href="https://www.messenger.com/t/satofolio">
+<a href="https://www.messenger.com/t/satofolio" target="_blank">
 <img border="0" alt="MessengerButton" src="assets/messenger.png">
 </p>
 

@@ -2,8 +2,8 @@
   <img src="assets/sato-top-wide.png" />
 </p>
 
-| [Demo](#demo) | [Requirements](#requirements) | [Documentation](#documentation) | [Changelog](#changelog) |
-|---|---|---|---|
+| [Demo](#demo) | [Requirements](#requirements) | [Talk to Sato on Messenger](#sato-on-messenger) | [Documentation](#documentation) | [Changelog](#changelog) |
+|---|---|---|---|---|
 
 # SATO IS A WORK IN PROGRESS
 
@@ -26,6 +26,8 @@ Sato is a chatbot able to answer generic questions about cryptocurrencies and fe
 <p align="center">
   <img src="assets/satodemo.gif" />
 </p>
+
+### SATO ON MESSENGER
 
 <p align="center">
 <a href="https://www.messenger.com/t/satofolio">

@@ -2,6 +2,9 @@
   <img src="assets/sato-top-wide.png" />
 </p>
 
+| [Demo](#demo) | [Requirements](#requirements) | [Documentation](#documentation) | [Changelog](#changelog) |
+|---|---|---|---|
+
 # SATO IS A WORK IN PROGRESS
 
 ### WHAT IS SATO?
@@ -24,6 +27,11 @@ Sato is a chatbot able to answer generic questions about cryptocurrencies and fe
   <img src="assets/satodemo.gif" />
 </p>
 
+<p align="center">
+<a href="https://www.messenger.com/t/satofolio">
+<img border="0" alt="MessengerButton" src="assets/messenger.png">
+</p>
+
 ### REQUIREMENTS
 
 Sato is a chatbot built on [Recast.AI](https://recast.ai?utm_source=github&utm_medium=referral&utm_campaign=sato). 
@@ -41,7 +49,8 @@ Two server files are included in the repo:
 
 The whole process of building Sato has been documented and will be published soon.
 
-[Tutorial #1 - Setting up a self-hosted server (ngrok) to let our bot fetch data (crypto prices) from third party APIs.](https://recast.ai/blog/python-cryptobot/)
+- [Tutorial #1 - Setting up a self-hosted server (ngrok) to let our bot fetch data (crypto prices) from third party APIs.](https://recast.ai/blog/python-cryptobot/)
+- [Tutorial #2 - Hosting your server on Heroku using Github](https://recast.ai/blog/github-repo-heroku/)
 
 ## CHANGELOG
 - **12/13 - Exchanges**: Sato is now able to process queries regarding exchages and purchasing cryptos.

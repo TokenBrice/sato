@@ -57,3 +57,4 @@ The whole process of building Sato has been documented and will be published soo
 ## CHANGELOG
 - **12/13 - Exchanges**: Sato is now able to process queries regarding exchages and purchasing cryptos.
 - **12/06 - Quick Replies**: All of Sato's Quick Replies are now regrouped in the "qr" skill. Added emojis and revised the conversation flow.
+- **12/22 - Persistent Menu**: Add a persistent menu to Sato with three quick links.

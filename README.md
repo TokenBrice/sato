@@ -49,10 +49,11 @@ Two server files are included in the repo:
 
 ### DOCUMENTATION
 
-The whole process of building Sato has been documented and will be published soon.
+The whole process of building Sato has been documented:
 
 - [Tutorial #1 - Setting up a self-hosted server (ngrok) to let our bot fetch data (crypto prices) from third party APIs.](https://recast.ai/blog/python-cryptobot/)
 - [Tutorial #2 - Hosting your server on Heroku using Github](https://recast.ai/blog/github-repo-heroku/)
+- [Tutorial #0 - The basics of bot building with Recast.AI](https://recast.ai/blog/build-your-first-bot-with-recast-ai/)
 
 ## CHANGELOG
 - **12/13 - Exchanges**: Sato is now able to process queries regarding exchages and purchasing cryptos.

@@ -44,8 +44,8 @@ The server (used for API calls) is built with [Python 3.6](https://www.python.or
 
 Two server files are included in the repo:
 
--   **server.py**: Use this script if you want to host it on a server, using Heroku for instance (see Tutorial 1).
--   **server-self-run.py**: Use this script to test your bot locally (see Tutorial 2).
+-   **server-self-run.py** (to use with ngrok): Use this script to test your bot locally (see Tutorial 1).
+-   **server.py** (to use with Heroku): Use this script if you want to host it on a server, using Heroku for instance (see Tutorial 2).
 
 ### DOCUMENTATION
 

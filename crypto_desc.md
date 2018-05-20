@@ -50,3 +50,81 @@ Description
 | ![EOS](https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/eos.png)| EOS     | EOS |
 
 Description
+
+### LITECOIN
+
+|ICON | NAME       | SYMBOL           |
+|-------| ------------- |:-------------:
+| ![ltc](https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/ltc.png)| Litecoin     | LTC |
+
+Description
+
+### CARDANO
+
+|ICON | NAME       | SYMBOL           |
+|-------| ------------- |:-------------:
+| ![EOS](https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/ada.png)| Cardano     | ADA |
+
+Description
+
+### STELLAR
+
+|ICON | NAME       | SYMBOL           |
+|-------| ------------- |:-------------:
+| ![xlm](https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/xlm.png)| Stellar Lumens     | XLM |
+
+Description
+
+### IOTA
+
+|ICON | NAME       | SYMBOL           |
+|-------| ------------- |:-------------:
+| ![iota](https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/miota.png)| Iota     | MIOTA |
+
+### TRON
+
+|ICON | NAME       | SYMBOL           |
+|-------| ------------- |:-------------:
+| ![tron](https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/trx.png)| Tron     | TRX |
+
+Description
+
+### NEO
+
+|ICON | NAME       | SYMBOL           |
+|-------| ------------- |:-------------:
+| ![neo](https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/neo.png)| NEO     | NEO |
+
+Description
+
+### MONERO
+
+|ICON | NAME       | SYMBOL           |
+|-------| ------------- |:-------------:
+| ![xmr](https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/xmr.png)| Monero     | XMR |
+
+Description
+
+### DASH
+
+|ICON | NAME       | SYMBOL           |
+|-------| ------------- |:-------------:
+| ![dash](https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/dash.png)| Dash     | DASH |
+
+Description
+
+### NEM
+
+|ICON | NAME       | SYMBOL           |
+|-------| ------------- |:-------------:
+| ![xem](https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/xem.png)| NEM     | XEM |
+
+Description
+
+### TETHER / USDT
+
+|ICON | NAME       | SYMBOL           |
+|-------| ------------- |:-------------:
+| ![usdt](https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/usdt.png)| Tether     | USDT |
+
+Description

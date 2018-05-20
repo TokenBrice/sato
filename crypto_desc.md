@@ -1,5 +1,20 @@
+## TABLE OF CONTENT
+
 - [BITCOIN](#bitcoin)
 - [ETHEREUM](#ethereum)
+- [RIPPLE](#ripple)
+- [BITCOIN CASH](#bitcoin-cash)
+- [EOS](#eos)
+- [LITECOIN](#litecoin)
+- [CARDANO](#cardano)
+- [STELLAR](#stellar)
+- [IOTA](#iota)
+- [TRON](#tron)
+- [NEO](#neo)
+- [MONERO](#monero)
+- [DASH](#dash)
+- [NEM](#nem)
+- [TETHER / USDT](#tether)
 
 ### BITCOIN
 
@@ -121,7 +136,7 @@ Description
 
 Description
 
-### TETHER / USDT
+### TETHER
 
 |ICON | NAME       | SYMBOL           |
 |-------| ------------- |:-------------:

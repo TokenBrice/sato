@@ -1,6 +1,6 @@
 # Table of Contents
 1. [Bitcoin](#BITCOIN)
-2. [Etherum](#ETHEREUM)
+2. [Ethereum](###ETHEREUM)
 
 ### BITCOIN
 

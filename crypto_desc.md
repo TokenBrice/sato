@@ -1,7 +1,3 @@
-# Table of Contents
-1. [Bitcoin](#BITCOIN)
-2. [Ethereum](###ETHEREUM)
-
 ### BITCOIN
 
 | Name       | SYMBOL           | INFO  |

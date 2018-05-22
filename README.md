@@ -36,7 +36,7 @@ Sato is a chatbot able to answer generic questions about cryptocurrencies and fe
 
 ### REQUIREMENTS
 
-Sato is a chatbot built on [Recast.AI](https://recast.ai?utm_source=github&utm_medium=referral&utm_campaign=sato). 
+Sato is a chatbot built on [Recast.AI](https://recast.ai/?utm_source=brice&utm_medium=specialprincessjustine&utm_campaign=sato). 
 
 The server (used for API calls) is built with [Python 3.6](https://www.python.org/). It requires [Flask](http://flask.pocoo.org/) and [Requests](http://docs.python-requests.org/en/master/) to function.
 

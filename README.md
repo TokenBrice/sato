@@ -20,7 +20,7 @@ Sato is a chatbot able to answer generic questions about cryptocurrencies and fe
 5.  Questions about exchanges and trading cryptocurrencies.
 
 
-[You can find and fork Sato - BOT from here](https://recast.ai/ahirice/sato-cryptobot/train/?utm_source=github&utm_medium=referral&utm_campaign=sato)
+[You can find and fork Sato - BOT from here](https://recast.ai/ahirice/sato-cryptobot/train/?utm_source=brice&utm_medium=specialprincessjustine&utm_campaign=sato)
 
 ## DEMO
 <p align="center">
@@ -51,9 +51,9 @@ Two server files are included in the repo:
 
 The whole process of building Sato has been documented:
 
-- [Tutorial #1 - Setting up a self-hosted server (ngrok) to let our bot fetch data (crypto prices) from third party APIs.](https://recast.ai/blog/python-cryptobot/)
-- [Tutorial #2 - Hosting your server on Heroku using Github](https://recast.ai/blog/github-repo-heroku/)
-- [Tutorial #0 - The basics of bot building with Recast.AI](https://recast.ai/blog/build-your-first-bot-with-recast-ai/)
+- [Tutorial #1 - Setting up a self-hosted server (ngrok) to let our bot fetch data (crypto prices) from third party APIs.](https://recast.ai/blog/python-cryptobot/?utm_source=brice&utm_medium=specialprincessjustine&utm_campaign=sato))
+- [Tutorial #2 - Hosting your server on Heroku using Github](https://recast.ai/blog/github-repo-heroku/?utm_source=brice&utm_medium=specialprincessjustine&utm_campaign=sato))
+- [Tutorial #0 - The basics of bot building with Recast.AI](https://recast.ai/blog/build-your-first-bot-with-recast-ai/?utm_source=brice&utm_medium=specialprincessjustine&utm_campaign=sato))
 
 ## CHANGELOG
 - **12/22/2017 - Persistent Menu**: Add a persistent menu to Sato with three quick links.

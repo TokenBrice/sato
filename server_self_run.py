@@ -7,7 +7,7 @@ port = '5000'
 
 @app.route('/', methods=['POST'])
 def index():
-  data = json.loads(request.get_data().decode(‘utf-8’))
+  data = json.loads(request.get_data().decode('utf-8'))
 
   # FETCH THE CRYPTO NAME
   crypto_name = data[“nlp”][“entities”][“crypto_name”][0][“raw”]

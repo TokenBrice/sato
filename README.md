@@ -51,11 +51,12 @@ Two server files are included in the repo:
 
 The whole process of building Sato has been documented:
 
-- [Tutorial #1 - Setting up a self-hosted server (ngrok) to let our bot fetch data (crypto prices) from third party APIs.](https://recast.ai/blog/python-cryptobot/?utm_source=brice&utm_medium=specialprincessjustine&utm_campaign=sato))
-- [Tutorial #2 - Hosting your server on Heroku using Github](https://recast.ai/blog/github-repo-heroku/?utm_source=brice&utm_medium=specialprincessjustine&utm_campaign=sato))
-- [Tutorial #0 - The basics of bot building with Recast.AI](https://recast.ai/blog/build-your-first-bot-with-recast-ai/?utm_source=brice&utm_medium=specialprincessjustine&utm_campaign=sato))
+- [Tutorial #0 - The basics of bot building with Recast.AI](https://recast.ai/blog/build-your-first-bot-with-recast-ai/?utm_source=brice&utm_medium=specialprincessjustine&utm_campaign=sato)
+- [Tutorial #1 - Setting up a self-hosted server (ngrok) to let our bot fetch data (crypto prices) from third party APIs.](https://recast.ai/blog/python-cryptobot/?utm_source=brice&utm_medium=specialprincessjustine&utm_campaign=sato)
+- [Tutorial #2 - Hosting your server on Heroku using Github](https://recast.ai/blog/github-repo-heroku/?utm_source=brice&utm_medium=specialprincessjustine&utm_campaign=sato)
 
 ## CHANGELOG
-- **12/22/2017 - Persistent Menu**: Add a persistent menu to Sato with three quick links.
+- **01/07/2019 - Fixes**: Fixed the server.py and static menu
+- **04/22/2018 - Persistent Menu**: Add a persistent menu to Sato with three quick links.
 - **12/13/2017 - Exchanges**: Sato is now able to process queries regarding exchages and purchasing cryptos.
 - **12/06/2017 - Quick Replies**: All of Sato's Quick Replies are now regrouped in the "qr" skill. Added emojis and revised the conversation flow.

@@ -2,8 +2,8 @@
   <img src="assets/sato-top-wide.png" />
 </p>
 
-| [Demo](#demo) | [Requirements](#requirements) | [Talk to Sato on Messenger](#sato-on-messenger) | [Documentation](#documentation) | [Changelog](#changelog) |
-|---|---|---|---|---|
+| [Demo](#demo) | [Requirements](#requirements) | [Documentation](#documentation) | [Talk to Sato on Messenger](#sato-on-messenger) | [Recast.AI Bot](https://recast.ai/ahirice/sato-cryptobot/train/?utm_source=brice&utm_medium=specialprincessjustine&utm_campaign=sato) | [Changelog](#changelog) |
+|---|---|---|---|---|---|
 
 ### WHAT IS SATO?
 

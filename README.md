@@ -5,8 +5,6 @@
 | [Demo](#demo) | [Requirements](#requirements) | [Talk to Sato on Messenger](#sato-on-messenger) | [Documentation](#documentation) | [Changelog](#changelog) |
 |---|---|---|---|---|
 
-# SATO IS A WORK IN PROGRESS
-
 ### WHAT IS SATO?
 
 Sato is a chatbot able to answer generic questions about cryptocurrencies and fetch any currency price.
@@ -56,6 +54,7 @@ The whole process of building Sato has been documented:
 - [Tutorial #2 - Hosting your server on Heroku using Github](https://recast.ai/blog/github-repo-heroku/?utm_source=brice&utm_medium=specialprincessjustine&utm_campaign=sato)
 
 ## CHANGELOG
+- **02/27/2019 - Ticker Capitalization**: Added a variable to capitalize the ticker in server.py so that Sato can fetch a crypto price whatever the user input capitalization is (BTC/btc/BtC). 
 - **01/07/2019 - Fixes**: Fixed the server.py and static menu
 - **04/22/2018 - Persistent Menu**: Add a persistent menu to Sato with three quick links.
 - **12/13/2017 - Exchanges**: Sato is now able to process queries regarding exchages and purchasing cryptos.
